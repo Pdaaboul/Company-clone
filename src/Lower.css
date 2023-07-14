@@ -1,0 +1,40 @@
+.jangol {
+  border-radius: 10px;
+  width: 200px;
+  height: 266.664px;
+  align-self: center;
+}
+.nejme {
+  width: 17px;
+  height: 17px;
+  margin-right: 0.2rem;
+}
+.lowerdiv {
+  width: 200px;
+
+  font-size: 12px;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.lowerdiv2 {
+  margin-left: 20px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.info {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+p {
+  margin: 0 0;
+}
+.gray {
+  color: #918e9b;
+}

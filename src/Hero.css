@@ -1,0 +1,20 @@
+.batal {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin-top: 1.5rem;
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+}
+
+.issa {
+  /* justify-self: center; */
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  align-self: center;
+}
+.ow {
+  align-self: center;
+  margin-left: 2.2rem;
+}
